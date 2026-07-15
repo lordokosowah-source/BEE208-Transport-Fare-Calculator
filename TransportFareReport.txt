@@ -1,0 +1,80 @@
+=========================================
+        TRANSPORT FARE REPORT - Student (10% Discount)
+=========================================
+
+Passenger Name      : Lord Oko Sowah
+Route Name          : Accra - Tema
+Transport Type      : Bus
+Passenger Category  : Student
+
+Distance            : 30 km
+Fare Rate           : GHS 2.50 per km
+
+-----------------------------------------
+Base Fare           : GHS 75.00
+Discount            : GHS 7.50
+Luggage Charge      : GHS 0.00
+
+-----------------------------------------
+FINAL FARE          : GHS 67.50
+=========================================
+
+
+=========================================
+        TRANSPORT FARE REPORT - Child (50% Discount)
+=========================================
+Passenger Name      : Lord Oko Sowah
+Route Name          : Accra to Tema
+Transport Type      : Taxi
+Passenger Category  : Child
+
+Distance            : 40.00 km
+Fare Rate           : GHS 3.00 per km
+
+-----------------------------------------
+Base Fare           : GHS 120.00
+Discount            : GHS 60.00
+Luggage Charge      : GHS 0.00
+-----------------------------------------
+FINAL FARE          : GHS 60.00
+=========================================
+
+
+=========================================
+        TRANSPORT FARE REPORT - Senior (20% Discount + LuggageCharge)
+=========================================
+Passenger Name      : NKT
+Route Name          : Takoradi to Accra
+Transport Type      : Bus
+Passenger Category  : Senior
+
+Distance            : 100.00 km
+Fare Rate           : GHS 2.00 per km
+
+-----------------------------------------
+Base Fare           : GHS 200.00
+Discount            : GHS 40.00
+Luggage Charge      : GHS 10.00
+-----------------------------------------
+FINAL FARE          : GHS 170.00
+=========================================
+
+
+=========================================
+        TRANSPORT FARE REPORT - Adult (No Discount)
+=========================================
+Passenger Name      : Jelord Amoah
+Route Name          : Tamale to Accra
+Transport Type      : Bus
+Passenger Category  : Adult
+
+Distance            : 400.00 km
+Fare Rate           : GHS 2.00 per km
+
+-----------------------------------------
+Base Fare           : GHS 800.00
+Discount            : GHS 0.00
+Luggage Charge      : GHS 4.00
+-----------------------------------------
+FINAL FARE          : GHS 804.00
+=========================================
