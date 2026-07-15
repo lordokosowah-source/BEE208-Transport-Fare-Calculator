@@ -130,13 +130,6 @@ Final Fare = Discounted Fare + Luggage Charge
 | 0 - 10 kg | Free |
 | 11 - 20 kg | GHS 5 |
 | Above 20 kg | GHS 10 |
-
----
-
-## How To Compile and Run
-
-### Step 1: Open terminal
-
 Navigate to the project folder.
 
 ### Step 2: Compile
